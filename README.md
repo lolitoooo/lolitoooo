@@ -18,7 +18,7 @@
 
  <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**-->
  
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:loanpena77@gmail.com">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -59,9 +59,8 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolitoooo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
-
 <br/><br/>
+
 <hr/>
 
 <h3 align="center">
